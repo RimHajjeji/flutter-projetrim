@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "502288617321",
+    "project_id": "eventprojet-f51ed",
+    "storage_bucket": "eventprojet-f51ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502288617321:android:74c29ee5b69cf81cc277f8",
+        "android_client_info": {
+          "package_name": "com.example.event_projet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh6Sb0-ffhcGTvfN-6rw2oluy2RCKjF44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
